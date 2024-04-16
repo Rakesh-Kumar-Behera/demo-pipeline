@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: Census-Income
+Version: 0.0.1
+Author: Rakesh
+Author-email: rakeshkumarbehera342@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: flask
